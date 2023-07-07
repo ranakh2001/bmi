@@ -6,3 +6,4 @@ Color sliderColor = const Color(0xffEB1555);
 Color inactivebutton = const Color(0xff1D1F33);
 Color greyc = const Color(0xff8d8e98);
 Color elevatedColor = const Color(0xff191a2e);
+Color myFabC = const Color(0xff1c1f32);

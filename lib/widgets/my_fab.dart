@@ -19,7 +19,7 @@ class MyFAB extends StatelessWidget {
       constraints: const BoxConstraints(minWidth: 36.0, minHeight: 36.0),
       padding: const EdgeInsets.all(16),
       shape: const CircleBorder(),
-      fillColor: sliderColor,
+      fillColor: myFabC,
       onPressed: function,
       child: Center(child: Icon(icon)),
     );
